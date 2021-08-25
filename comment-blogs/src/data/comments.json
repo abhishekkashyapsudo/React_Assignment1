@@ -1,0 +1,30 @@
+[{
+    "id":1,
+    "blogId":1,
+    "comment":"This is a comment 1 for blog 1",
+    "isActive": true
+},
+{
+    "id":2,
+    "blogId":1,
+    "comment":"This is a comment 2 for blog 1",
+    "isActive": false
+},
+{
+    "id":3,
+    "blogId":2,
+    "comment":"This is a comment 1 for blog 2",
+    "isActive": true
+},
+{
+    "id":4,
+    "blogId":2,
+    "comment":"This is a comment 2 for blog 2",
+    "isActive": false
+},
+{
+    "id":5,
+    "blogId":2,
+    "comment":"This is a comment 3 for blog 2",
+    "isActive": true
+}]
